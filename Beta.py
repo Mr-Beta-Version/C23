@@ -8,4 +8,4 @@ if bit == '64bit':
     menu()
 elif bit == '32bit':
     from C23arm import menu
-    menu
+    menu()
